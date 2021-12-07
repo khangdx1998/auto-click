@@ -1,7 +1,7 @@
 
 #!/bin/bash
-API_TOKEN="1868930722:AAFdo4UtS9JWhqdnoTSk4I2NhHVNiFgGLog"
-CHAT_ID="-588651592"
+API_TOKEN=""
+CHAT_ID=""
 for (( i=1; i<= $1; i++))
 do
   NUMLOCK=$(numlockx status)
